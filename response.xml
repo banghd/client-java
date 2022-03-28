@@ -2,7 +2,7 @@
     <SOAP-ENV:Header/>
     <SOAP-ENV:Body>
         <ns3:Response xmlns:ns3="http://www.baeldung.com/springsoap/gen">
-            <result>1.0</result>
+            <result>9.0</result>
             <message>ok</message>
         </ns3:Response>
     </SOAP-ENV:Body>

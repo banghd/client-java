@@ -9,7 +9,7 @@ let op = {
     pow : "pow"
 }
 
-let first = 1, second = 3, s = op.pow
+let first = 100, second = 3, s = op.pow
 var config = {
   method: 'get',
   url: `http://localhost:8080/calculate?first=${first}&second=${second}&op=${s}`,
